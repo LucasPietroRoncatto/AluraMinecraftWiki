@@ -40,4 +40,4 @@ Se você quiser contribuir para este projeto, fique à vontade para criar um for
 * **Dados:** Os dados dos itens do Minecraft foram obtidos de https://pt.minecraft.wiki.
 * **Personalização:** Sinta-se à vontade para personalizar o visual e as funcionalidades da aplicação.
 * **imagens:** Para que as imagens fiquem mais organizadas crie em sua pasta outra pasta chamada "img" junto dos arquivos html,css,js e em todo lugar que linkar uma imagem adicione "img/"; 
-* ** add novo item de pesquisa:** Para adicionar um item novo vá para a aba dados em seu editor de texto após baixar os arquivos e adicione da mesma forma que estão os outros;
+* **Adicionar novos itens de pesquisa:** Para adicionar um item novo vá para a aba dados em seu editor de texto após baixar os arquivos e adicione da mesma forma que estão os outros;
