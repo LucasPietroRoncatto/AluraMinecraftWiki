@@ -8,7 +8,7 @@ let dados = [
         dificuldade: "muito comum",
         obtencao: "coletar quebrando ávores",
         uso: "construção e artesanato",
-        imagem: "tronco.png"
+        imagem: "img/tronco.png"
     },
     {
         titulo: "Pedra",
@@ -19,7 +19,7 @@ let dados = [
         dificuldade: "muito comum",
         obtencao: "minerar abaixo da camada da terra",
         uso: "construção e artesanato",
-        imagem: "pedra.png"
+        imagem: "img/pedra.png"
     },
     {
         titulo: "Pão",
@@ -30,7 +30,7 @@ let dados = [
         dificuldade: "comum",
         obtencao: "cultivar sementes ou achar em vilas",
         uso: "sobrevivência",
-        imagem: "pao.png"
+        imagem: "img/pao.png"
     },
     {
         titulo: "Espada de Diamante",
@@ -41,7 +41,7 @@ let dados = [
         dificuldade: "raro",
         obtencao: "minerar diamante e criar em uma bancada de trabalho",
         uso: "combate",
-        imagem: "espada_diamante.png"
+        imagem: "img/espada_diamante.png"
     },
 
     {
@@ -53,7 +53,7 @@ let dados = [
         dificuldade: "raro",
         obtencao: "mineração",
         uso: "construção, decoração, troca",
-        imagem: "bloco_ouro.png"    
+        imagem: "img/bloco_ouro.png"    
     },
     {
         titulo: "Picareta de Pedra",
@@ -64,7 +64,7 @@ let dados = [
         dificuldade: "comum",
         obtencao: "criar em uma bancada de trabalho com gravetos e pedras",
         uso: "mineração",
-        imagem: "picareta_pedra.png"
+        imagem: "img/picareta_pedra.png"
     },
     {
         titulo: "Bolo",
@@ -75,7 +75,7 @@ let dados = [
         dificuldade: "fácil",
         obtencao: "criar em uma bancada de trabalho com trigo, leite e ovos",
         uso: "alimentar",
-        imagem: "bolo.png"
+        imagem: "img/bolo.png"
     },
     {
         titulo: "Poção de Cura",
@@ -86,7 +86,7 @@ let dados = [
         dificuldade: "moderado",
         obtencao: "criar em uma bancada de trabalho com água, nether wart e blaze powder",
         uso: "cura",
-        imagem: "pocao_cura.png"
+        imagem: "img/pocao_cura.png"
     }
 ];
 
